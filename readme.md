@@ -13,7 +13,7 @@ A simple and interactive command-line application built with Node.js for managin
 - **Delete File**
 - **Delete Folder**
 - **List Items**
-- **Exit**
+- **Exit CLI**
 
 ---
 
